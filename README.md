@@ -1,2 +1,2 @@
-# -Introducci-n-al-desarrollo-de-aplicaciones-m-viles
+# -Introducción al desarrollo de aplicaciones móviles
 Desarrollo móvil con Amadis Suarez
